@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🖥️ Nowadays, I am working as a **Junior** Analyst in Itaú Unibanco.
 - 🔭 I’m currently working on **Java**
 - 🌱 I’m currently learning **DevOps**
-- 👯 I’m looking to collaborate on with people to help them **grown up**
+- 👯 I’m looking to collaborate with people to help them **grown up**
 
 
 #### Contact me
