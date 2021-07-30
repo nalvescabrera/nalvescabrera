@@ -1,16 +1,21 @@
-<h1 align="center"> 
-Hello!  👋
+<h1> 
+Hello! My name is Natalia Cabrera
 </h1>
 
-### My name is Natalia Cabrera 
-
 #### About me
-Here are some ideas to get you started:
-  
 - 🖥️ Nowadays, I am working as a **Junior** Analyst in Itaú Unibanco.
 - 🔭 I’m currently working on **Java**
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate with people to help them **grown up**
+
+ <div>
+  <a href="https://github.com/nalvescabrera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nalvescabrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalvescabrera&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
 
 
 #### Contact me
