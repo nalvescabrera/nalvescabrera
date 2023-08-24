@@ -3,7 +3,6 @@ Hello! My name is Natalia Cabrera
 </h1>
 
 #### About me
--
 - 🖥️ Nowadays, I am working as a **Junior** Analyst.
 - 🔭 I’m currently working on **Java**
 - 📚 I’m currently learning **DevOps**
