@@ -18,6 +18,7 @@ Hello! My name is Natalia Cabrera
   <img align="center" alt="Nat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nat-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Nat-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+ <img align="center" alt="Nat-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons//python/python-original-wordmark.svg">
 <i class="devicon-git-plain colored"></i>
 </div>
  
